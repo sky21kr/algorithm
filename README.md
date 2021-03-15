@@ -1,1 +1,1 @@
-# baekjoonalgorithm
+# algorithm
